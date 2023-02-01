@@ -1,0 +1,15 @@
+/Users/danilsurin/Documents/GIT/Exanples/HomeWork007/HW05/obj/Debug/net7.0/HW05.csproj.AssemblyReference.cache
+/Users/danilsurin/Documents/GIT/Exanples/HomeWork007/HW05/obj/Debug/net7.0/HW05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danilsurin/Documents/GIT/Exanples/HomeWork007/HW05/obj/Debug/net7.0/HW05.AssemblyInfoInputs.cache
+/Users/danilsurin/Documents/GIT/Exanples/HomeWork007/HW05/obj/Debug/net7.0/HW05.AssemblyInfo.cs
+/Users/danilsurin/Documents/GIT/Exanples/HomeWork007/HW05/obj/Debug/net7.0/HW05.csproj.CoreCompileInputs.cache
+/Users/danilsurin/Documents/GIT/Exanples/HomeWork007/HW05/bin/Debug/net7.0/HW05
+/Users/danilsurin/Documents/GIT/Exanples/HomeWork007/HW05/bin/Debug/net7.0/HW05.deps.json
+/Users/danilsurin/Documents/GIT/Exanples/HomeWork007/HW05/bin/Debug/net7.0/HW05.runtimeconfig.json
+/Users/danilsurin/Documents/GIT/Exanples/HomeWork007/HW05/bin/Debug/net7.0/HW05.dll
+/Users/danilsurin/Documents/GIT/Exanples/HomeWork007/HW05/bin/Debug/net7.0/HW05.pdb
+/Users/danilsurin/Documents/GIT/Exanples/HomeWork007/HW05/obj/Debug/net7.0/HW05.dll
+/Users/danilsurin/Documents/GIT/Exanples/HomeWork007/HW05/obj/Debug/net7.0/refint/HW05.dll
+/Users/danilsurin/Documents/GIT/Exanples/HomeWork007/HW05/obj/Debug/net7.0/HW05.pdb
+/Users/danilsurin/Documents/GIT/Exanples/HomeWork007/HW05/obj/Debug/net7.0/HW05.genruntimeconfig.cache
+/Users/danilsurin/Documents/GIT/Exanples/HomeWork007/HW05/obj/Debug/net7.0/ref/HW05.dll
