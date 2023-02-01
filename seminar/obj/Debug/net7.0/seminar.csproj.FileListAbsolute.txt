@@ -1,0 +1,15 @@
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork007\seminar\obj\Debug\net7.0\seminar.csproj.AssemblyReference.cache
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork007\seminar\obj\Debug\net7.0\seminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork007\seminar\obj\Debug\net7.0\seminar.AssemblyInfoInputs.cache
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork007\seminar\obj\Debug\net7.0\seminar.AssemblyInfo.cs
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork007\seminar\obj\Debug\net7.0\seminar.csproj.CoreCompileInputs.cache
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork007\seminar\bin\Debug\net7.0\seminar.exe
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork007\seminar\bin\Debug\net7.0\seminar.deps.json
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork007\seminar\bin\Debug\net7.0\seminar.runtimeconfig.json
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork007\seminar\bin\Debug\net7.0\seminar.dll
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork007\seminar\bin\Debug\net7.0\seminar.pdb
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork007\seminar\obj\Debug\net7.0\seminar.dll
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork007\seminar\obj\Debug\net7.0\refint\seminar.dll
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork007\seminar\obj\Debug\net7.0\seminar.pdb
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork007\seminar\obj\Debug\net7.0\seminar.genruntimeconfig.cache
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork007\seminar\obj\Debug\net7.0\ref\seminar.dll
