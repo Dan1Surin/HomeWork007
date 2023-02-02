@@ -46,7 +46,7 @@ int[,] getRandomMatrix(int rows, int columns, int lRange, int rRange)
 int ROWS = 2;
 int COLUMNS = 2;
 const int LR = 0;
-const int RR = 3;
+const int RR = 9;
 
 
 void PrintMatrix(int[,] matr)
@@ -66,22 +66,22 @@ PrintMatrix(Matrix);
 Console.WriteLine();
 int[,] Matrix2 = getRandomMatrix(ROWS, COLUMNS, LR, RR);
 PrintMatrix(Matrix2);
-Console.WriteLine();
-int[,] Matrix3 = getRandomMatrix(ROWS, COLUMNS, LR, RR);
-PrintMatrix(Matrix3);
-Console.WriteLine();
+int[,] Matrix3 = new int[ROWS, COLUMNS];
 
-void MatrixMultiplication(int[,] matr,int[,] matr2,int[,] matr3)
+void MatrixMultiplication(int[,] matr1,int[,] matr2,int[,] matr3)
 {
-    for (int i = 0; i < matr.GetLength(0)-1; i++)
-    {
-        for (int j = 0; j < matr.GetLength(1)-1; j++)
-        { 
-           matr3[i,j]=matr[i,j]*matr2[i,j]+matr[i+1,j]*matr2[i,j+1];
+    for (int i = 0; i < matr1.GetLength(0); i++)
+    {   
+        
+        for (int j = 0; j < matr1.GetLength(1); j++)
+        {
+           //matr3[i,j]=matr1[i,j]*matr2[i,j]+matr1[i+1,j]*matr2[i,j+1];//математически пока не работает
+            matr3[i,j]=matr1[i,j]*matr2[i,j];
         }
+        
     }
     Console.WriteLine();
-    PrintMatrix(matr2);
+    PrintMatrix(matr3);
 }
 
 MatrixMultiplication(Matrix,Matrix2,Matrix3);
