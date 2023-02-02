@@ -76,7 +76,7 @@ void MatrixMultiplication(int[,] matr,int[,] matr2,int[,] matr3)
     for (int i = 0; i < matr.GetLength(0)-1; i++)
     {
         for (int j = 0; j < matr.GetLength(1)-1; j++)
-        {
+        { 
            matr3[i,j]=matr[i,j]*matr2[i,j]+matr[i+1,j]*matr2[i,j+1];
         }
     }
